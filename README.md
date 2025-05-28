@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Jialin Zhou</h1>
 <h3 align="center">🚀 A passionate backend developer exploring many skills.</h3>
 
 ### 🧊 GitHub 3D Contribution Graph
