@@ -17,7 +17,7 @@
 ---
 
 ### 🧊 GitHub 3D Contribution Graph
-[![GitHub 3D Profile](https://github.com/jialin-zhou/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/jialin-zhou/github-profile-3d-contrib)
+[![GitHub 3D Profile](https://github.com/jialin-zhou/jialin-zhou/profile-3d-contrib/profile-season.svg)]
 
 ---
 
