@@ -17,8 +17,7 @@
 ---
 
 ### 🧊 GitHub 3D Contribution Graph
-[![GitHub 3D Profile](https://github.com/jialin-zhou/jialin-zhou/profile-3d-contrib/profile-season.svg)]
-
+![Personal 3D Metrics](./profile-3d-contrib/profile-season.svg)
 ---
 
 <!--
